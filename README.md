@@ -1,10 +1,10 @@
 # LearnNodeCourse
 Code for the "Learn and Understand Node JS" Udemy course
 
-* functionLesson.js covers first-class functions and function expressions.
+* functionLesson.js | Covers first-class functions and function expressions.
 
-* app.js and greet.js cover module creation and use.
+* app.js and greet.js | Covers module creation and use.
 
-* objectLesson.js covers working with objects.
+* objectLesson.js | Covers working with objects.
 
-* 
+* proto.js | Looks at object prototypes

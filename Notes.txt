@@ -1,0 +1,4 @@
+First-class functions = Functions can be passed like strings, arrays, etc...
+Prototypal inheritance = prototypes added to an object can also have prototypes and so on. All are available.
+Prototype chain = Prototypes connected through an object.
+Function constructors = Normal function used to construct objects (using "new" keyword)
